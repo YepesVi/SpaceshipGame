@@ -17,7 +17,11 @@ Menú principal interactivo con opciones para iniciar o salir del juego.
 Sistema de puntuación en pantalla en tiempo real.
 
 🕹️ Controles
-Tecla    	Acción
-← / →	    Mover nave espacial
-Espacio  	Disparar
-ESC      	Salir del juego
+
+Tecla   - 	 Acción
+
+← / →	  -    Mover nave espacial
+
+Espacio - 	 Disparar
+
+ESC     - 	 Salir del juego
